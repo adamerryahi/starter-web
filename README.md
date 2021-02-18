@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 ## Introduction
 Introduction
 
+##Contribution
+Fork the report and raise pull request for review
+
 ## GIT Comparaison
 Adding comparaisons lecture
 
