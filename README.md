@@ -10,3 +10,8 @@ Sample website with plenty of files for demos
 ## Introduction
 Introduction
 
+## GIT Comparaison
+Adding comparaisons lecture
+
+##GIThub Content
+Comparaison with Repo
