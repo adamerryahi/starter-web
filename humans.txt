@@ -3,7 +3,11 @@
 
 # TEAM
 
-    <name> Adam Erryahi <role> DevOps Master <twitter>
+    <name> Adam Erryahi 
+    <email> adam.erryahi@gmail.com
+    <role> DevOps Master 
+
+    <twitter>
 
 # THANKS
 
@@ -13,3 +17,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Machine Lwearnin g, AWS
+
