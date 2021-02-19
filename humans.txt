@@ -21,3 +21,5 @@ Thanks to you all
     HTML5, CSS3, Angular
     jQuery, Modernizr, Machine Lwearnin g, AWS
 
+    More changes
+
