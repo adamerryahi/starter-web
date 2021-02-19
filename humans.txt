@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 Modifying
+
+where are my conflicts
 # TEAM
 
     <name> Adam Erryahi 
