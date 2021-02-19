@@ -12,6 +12,7 @@ Introduction
 
 ##Contribution
 Fork the report and raise pull request for review
+adding git rebase lectures
 
 ## GIT Comparaison
 Adding comparaisons lecture
