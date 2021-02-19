@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Modifying
 # TEAM
 
     <name> Adam Erryahi 
@@ -11,7 +12,7 @@
 
 # THANKS
 
-    <name>
+Thanks to you all
 
 # TECHNOLOGY COLOPHON
 
