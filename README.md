@@ -14,6 +14,8 @@ Introduction
 Fork the report and raise pull request for review
 adding git rebase lectures
 
+Moer changes
+
 ## GIT Comparaison
 Adding comparaisons lecture
 
